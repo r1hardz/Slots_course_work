@@ -1,0 +1,135 @@
+﻿  SlotMachineWindow.cpp
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(90,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(90,53): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(90,53): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(90,53): warning C4244:             T=unsigned int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(90,53): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,71): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,71): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,71): warning C4244:             T=unsigned int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,71): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,45): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,45): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,45): warning C4244:             T=unsigned int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(97,45): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,79): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,79): warning C4244:             T=unsigned int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,55): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,55): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,55): warning C4244:             T=unsigned int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(130,55): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,82): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(266,70): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,93): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(271,81): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,93): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(276,81): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(394,67): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,91): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(397,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,91): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         with
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:             T=int
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         ]
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         and
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         [
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:             T=float
+C:\Users\Delta\source\repos\Slots\Slots\SlotMachineWindow.cpp(400,79): warning C4244:         ]
+  Slots.vcxproj -> C:\Users\Delta\source\repos\Slots\Debug\Slots.exe
